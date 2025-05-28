@@ -27,7 +27,7 @@ terraform {
   }
 
   backend "s3" {
-    bucket = "aviral25"
+    bucket = "vprofileactions24"
     key    = "terraform.tfstate"
     region = "ap-south-1"
   }
